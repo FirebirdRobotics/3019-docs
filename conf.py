@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Firebird 3019 Documentation'
+project = 'Firebird 3019'
 copyright = '2026, Ira Parsons'
 author = 'Ira Parsons'
 release = '0.1'
