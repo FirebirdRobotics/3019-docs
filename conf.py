@@ -9,6 +9,7 @@
 project = 'Firebird 3019'
 copyright = '2026, Firebird Robotics'
 author = 'Ira Parsons'
+release = '2026'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
