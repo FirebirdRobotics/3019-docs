@@ -2,4 +2,6 @@
 
 ## Overview
 
+## Configuration
+
 ## Common Problems
