@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Network Diagram](networkdiagram.jpg "On-Robot Network Diagram")
+![Network Diagram](networking/networkdiagram.jpg "On-Robot Network Diagram")
 
 The robot has an onboard network mediated by the [robot radio](networking/radio.md), which includes the [RoboRIO](ops/roborio.md) and the [coprocessors](vision/coprocessors.md).  The [driver station](ops/driverstation.md) connects to these devices over the wifi access point provided by the radio, called "FRC 3019".  For [vision](vision.md) to work properly, the network should be configured with static IP's as shown in the above network diagram.
 
