@@ -9,5 +9,5 @@ Vision
 
    coprocessors.md
 
-.. include:: vision.md
+.. include:: vision_.md
    :parser: myst_parser.sphinx_
