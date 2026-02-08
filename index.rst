@@ -10,6 +10,7 @@ Firebird 3019 documentation
    :maxdepth: 2
    :caption: Contents:
    :glob:
+   :titlesonly:
 
    operations.md
    operations/*
