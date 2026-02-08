@@ -11,5 +11,8 @@ Firebird 3019 documentation
    :caption: Contents:
 
    operations.md
+      ops/*
    networking.md
+      networking/*
    vision.md
+      vision/*
