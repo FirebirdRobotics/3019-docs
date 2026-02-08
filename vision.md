@@ -9,9 +9,9 @@
 ### The RIO isn't receiving tag data, but I can see the tags in the web interface.
 
 This means that the RIO cannot communicate with the coprocessor(s). This can happen if
-a) The IP address of the RIO is not set to 10.30.19.2
-b) The coprocessor(s) have not been cold booted since the last time the RIO was
-c) The camera name on the coprocessor(s) (set through the web interface) does not match the camera name in VisionConstants
+ - The IP address of the RIO is not set to 10.30.19.2
+ - The coprocessor(s) have not been cold booted since the last time the RIO was
+ - The camera name on the coprocessor(s) (set through the web interface) does not match the camera name in VisionConstants
 
 ### The robot pose in AdvantageScope quivers when receiving vision updates
 
