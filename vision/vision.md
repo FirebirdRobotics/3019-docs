@@ -4,7 +4,7 @@
 
 ## Coprocessors
 
-See: [Coprocessors](vision/coprocessors.md)
+See: [Coprocessors](coprocessors.md)
 
 ## Common Problems
 
