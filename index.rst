@@ -12,8 +12,8 @@ Firebird 3019 documentation
    :glob:
 
    operations.md
-      ops/*
+   operations/*
    networking.md
-      networking/*
+   networking/*
    vision.md
-      vision/*
+   vision/*
