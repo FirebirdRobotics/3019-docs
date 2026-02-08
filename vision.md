@@ -4,6 +4,10 @@
 
 ## Configuration
 
+## Coprocessors
+
+See: [Coprocessors](vision/coprocessors.md)
+
 ## Common Problems
 
 ### The RIO isn't receiving tag data, but I can see the tags in the web interface
