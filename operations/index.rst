@@ -1,4 +1,4 @@
-Operations
+Robot Operation
 =========================================
 
 .. toctree::

@@ -1,3 +1,1 @@
-# Robot Operation
-
 ## Overview

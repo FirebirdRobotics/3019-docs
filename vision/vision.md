@@ -1,5 +1,3 @@
-# Vision
-
 ## Overview
 
 ## Configuration

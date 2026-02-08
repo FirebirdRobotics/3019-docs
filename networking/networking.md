@@ -1,5 +1,3 @@
-# Networking
-
 ## Overview
 
 ![Network Diagram](networking/networkdiagram.jpg "On-Robot Network Diagram")
