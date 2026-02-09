@@ -10,7 +10,7 @@ The RIO interfaces with PhotonVision using the Photonlib library.  PhotonVision 
 
 The PhotonVision backend comes pre-installed on the [coprocessor](coprocessors.md) image.
 
-Photonlib is available for installation in the dependencies section of the left toolbar in [WPILib VSCode](../operations/wpilib.md).
+Photonlib is available for installation in the dependencies section of the left toolbar in WPILib VSCode.
 
 ## Configuration
 
