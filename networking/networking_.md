@@ -6,6 +6,8 @@ The robot has an onboard network mediated by the [robot radio](radio.md), which 
 
 ## Configuration
 
+The [radio](radio.md), [RIO](../operations/roborio.md), and [coprocessor(s)](../vision/coprocessors.md) should be configured with network settings per their individual pages.
+
 ## Radio
 
 See: [Radio](radio.md)
