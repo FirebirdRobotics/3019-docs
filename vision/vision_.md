@@ -48,3 +48,8 @@ If the robot pose is moving translationally, incrase the linear standard deviati
 ### The video feed is cutting out to a rainbow test pattern/feed not available.
 
 This usually happens when the vision software is overloaded.  Usually this can be fixed with a reboot.
+
+### The RIO is not receiving vision updates, but tags are shown detected on the Web interface after a deploy.
+
+Every time the RIO reboots, the coprocessors must also be rebooted in order to reestablish communications.  If the RIO is rebooted without power cycling the bot, the coprocessors must be rebooted manually over SSH.
+
